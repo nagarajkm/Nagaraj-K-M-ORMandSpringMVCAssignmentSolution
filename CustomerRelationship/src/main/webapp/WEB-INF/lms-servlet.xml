@@ -35,7 +35,7 @@
 		<property name="url"
 			value="jdbc:mysql://localhost:3306/CustomerRelationshipManagement"></property>
 		<property name="username" value="root"></property>
-		<property name="password" value="Kallesara@2296"></property>
+		<property name="password" value=""></property>
 	</bean>
 
 	<bean id="sessionFactory"
